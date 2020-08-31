@@ -1,0 +1,31 @@
+{
+	"name": "node-api1-project",
+	"version": "1.0.0",
+	"description": "- Building a RESTful API.\r - Performing CRUD operations.\r - Writing API endpoints.",
+	"main": "index.js",
+	"scripts": {
+		"server": "nodemon index.js",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Dudeicle/node-api1-project-NEW.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Dudeicle/node-api1-project-NEW/issues"
+	},
+	"homepage": "https://github.com/Dudeicle/node-api1-project-NEW#readme",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"helmet": "^4.1.0",
+		"shortid": "^2.2.15"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.4"
+	}
+}
