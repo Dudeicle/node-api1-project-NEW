@@ -8,6 +8,8 @@
 
 ## Instructions
 
+A CHANGE
+
 ### Task 1: Project Setup
 
 - **Fork** and **Clone** this repository.
@@ -114,7 +116,7 @@ When the client makes a `PUT` request to `/api/users/:id`:
   - update the user document in the database using the new information sent in the `request body`.
   - respond with HTTP status code `200` (OK).
   - return the newly updated _user document_.
-  
+
 ### Task 2b: Exit Ticket
 
 Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/Enw3XXyb7poZ6WTpy/pXE64R7ExgXbto).
@@ -137,5 +139,6 @@ Create a new React application and connect it to your server:
 - Style the list of users however you see fit.
 
 ## Submission Format
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
-* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
+
+- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
+- [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
