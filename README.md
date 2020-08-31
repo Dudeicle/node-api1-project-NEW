@@ -8,8 +8,6 @@
 
 ## Instructions
 
-A CHANGE
-
 ### Task 1: Project Setup
 
 - **Fork** and **Clone** this repository.
